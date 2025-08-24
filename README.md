@@ -1,4 +1,3 @@
-# Wine_Quality_Analysis_Dashboard_PowerBI
 # 🍷 Wine Quality Analysis Dashboard (Power BI)
 
 This project presents an interactive dashboard built in **Power BI** for analyzing red and white **Vinho Verde wine** data. It combines key metrics and visual insights to explore relationships between wine attributes and quality.
